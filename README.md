@@ -36,7 +36,7 @@ By developing and interpreting the model, we can:
 |-----------|-------------------|
 | **Language** | Python |
 | **Data Analysis** | pandas, numpy, scipy |
-| **Machine Learning** | scikit-learn (PCA, RandomForest, SVM), SHAP |
+| **Machine Learning** | scikit-learn (PCA, RandomForest, SVM) |
 | **Visualization** | matplotlib |
 | **Versioning & Deployment** | Git |
 
