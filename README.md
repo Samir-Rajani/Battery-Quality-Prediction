@@ -1,5 +1,5 @@
-# 🔋 Battery Cell Quality Prediction Project
-
+# 🔋 Battery Cell Quality Prediction Project (In-Progress)
+ 
 **Goal:** Predict and explain battery cell quality outcomes (Pass/Fail) using process parameters and electrical test data — emulating the data analytics workflows used in large-scale cell manufacturing.
 
 ---
