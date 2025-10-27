@@ -1,5 +1,5 @@
-# 🔋 Battery Cell Quality Prediction Project
-
+# 🔋 Battery Cell Quality Prediction Project (In-Progress)
+ 
 **Goal:** Predict and explain battery cell quality outcomes (Pass/Fail) using process parameters and electrical test data — emulating the data analytics workflows used in large-scale cell manufacturing.
 
 ---
@@ -36,7 +36,7 @@ By developing and interpreting the model, we can:
 |-----------|-------------------|
 | **Language** | Python |
 | **Data Analysis** | pandas, numpy, scipy |
-| **Machine Learning** | scikit-learn (PCA, RandomForest, SVM), SHAP |
+| **Machine Learning** | scikit-learn (PCA, RandomForest, SVM) |
 | **Visualization** | matplotlib |
 | **Versioning & Deployment** | Git |
 
